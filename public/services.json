@@ -11,7 +11,7 @@
         "img": "https://i.ibb.co/rdLVKpn/sick-man-wrapped-shawl-looking-thermometer-23-2147948499.png",
         "name":"typhoid fever",
         "price": 30,
-        "description":"Typhoid is caused by a type of bacteria that enters the human body through contaminated water and food. These germs do not get a chance to enter the human body through any other means except drinking water and food. Symptoms of the disease usually appear 10 to 14 days after the germs enter the body. Fever is the main symptom of this disease. The first four to five days the fever continues to increase. Fever sometimes increases, sometimes decreases; However, no time is left completely. Fever is accompanied by headache, body aches and physical weakness. Some people have constipation. In children, diarrhea and vomiting occur. In the second week, the patient may develop pink rash on the abdomen and back. Some people cough with fever."
+        "description":"Typhoid is caused by a type of bacteria that enters the human body through contaminated water and food. These germs do not get a chance to enter the human body through any other means except drinking water and food. Symptoms of the disease usually appear 10 to 14 days after the germs enter the body. Fever is the main symptom of this disease. The first four to five days the fever continues to increase. Fever sometimes increases, sometimes decreases; However, no time is left completely. Fever is accompanied by headache, body aches and physical weakness."
     },
     {
         "id": "3",
@@ -39,7 +39,7 @@
         "img": "https://i.ibb.co/Rbb7Ppp/working-toilet-1098-14696.png",
         "name":"Diarrhea",
         "price": 30,
-        "description":"If you have frequent thin stools like water, it is called diarrhea. Diarrhea is usually caused by 3 or more frequent bowel movements within 24 hours. In this case, if it is less than three times, there is nothing to fear. According to the World Health Organization, diarrhea is one of the leading causes of death in children under 5 years of age. About 1.6 billion children under the age of five get diarrhea every year. Of these, this deadly disease kills about 5 lakh 25 thousand children every year. Children suffer from malnutrition due to diarrhea. Worldwide, 70 million people cannot drink potable water and about 250 million people cannot use hygienic toilets. This is why the incidence of diarrhea is so high in the developing world. One study found that in low-income countries, 3-year-olds suffer from diarrhea about three times a year."
+        "description":"If you have frequent thin stools like water, it is called diarrhea. Diarrhea is usually caused by 3 or more frequent bowel movements within 24 hours. In this case, if it is less than three times, there is nothing to fear. According to the World Health Organization, diarrhea is one of the leading causes of death in children under 5 years of age. "
     },
     {
         "id": "7",
