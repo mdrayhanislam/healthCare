@@ -1,8 +1,9 @@
-.register-form input{
+.register-form input:not([type=checkbox]){
     display: block;
     margin-left: 25%;
     width: 50%;
     height: 50%;
+    border-radius: 5px;
     padding-left: 10px;
     font-size: 18px;
     margin-bottom: 15px;
@@ -10,4 +11,15 @@
 .register-form{
     margin: 0 auto;
     width: 50%;
+}
+.submit-custom{
+    background-color: goldenrod;
+    border: 1px solid beige;
+    font-size: 55px;
+    font-weight: 600;
+    padding: 10px;
+    color: #191970;
+}
+.submit-custom:hover{
+    background-color: gold;
 }
