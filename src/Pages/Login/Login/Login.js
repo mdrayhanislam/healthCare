@@ -1,12 +1,12 @@
 import React, { useRef } from 'react';
 import { Button, Form } from 'react-bootstrap';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 const Login = () => {
     const emailRef = useRef('');
    const passwordRef = useRef('');
 
-   const navigate = useNavigate()
+   const navigate = useNavigate();
 
 
    const handleSubmit =event =>{
@@ -16,7 +16,7 @@ const Login = () => {
         console.log(email, password)
    }
    const navigateRegister = event => {
-        navigate('register')
+        navigate('/register')
    }
     return (
         <div className='container w-50 mx-auto'>
@@ -41,7 +41,7 @@ const Login = () => {
                     Submit
                 </Button>
             </Form>
-            <p>If you are the first to visit our website, <span className='text-danger' onClick={navigateRegister}> Please Register </span></p>
+            <p>If you are the first to visit our website, <Link to="/register" className='text-danger pe-auto text-decoration-none' onClick={navigateRegister}> Please Register </Link></p>
         </div>
     );
 };
