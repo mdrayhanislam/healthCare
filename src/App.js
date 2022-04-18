@@ -11,6 +11,7 @@ import Login from './Pages/Login/Login/Login';
 import Register from './Pages/Login/Register/Register';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import Checkout from './Pages/Checkout/Checkout';
+import Blogs from './Pages/Blogs/Blogs';
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
          <Checkout></Checkout>
        </RequireAuth>
      }></Route>
+     <Route path='/blogs' element={<Blogs></Blogs>}></Route>
      <Route path='*' element={<NotFound></NotFound>}></Route>
     </Routes>
     <Footer></Footer>
