@@ -10,7 +10,7 @@ const Doctors = () => {
             .then(data => setDoctor(data));
     }, []);
     return (
-        <div className='container mt-5'>
+        <div id='doctor' className='container mt-5'>
             <div className="row">
                 <h2 className='services-title'> Our Doctor : {doctors.length}</h2>
                 <div className='services-container'>
