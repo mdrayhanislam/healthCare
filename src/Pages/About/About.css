@@ -3,4 +3,10 @@
     padding: 20px;
    margin: 0 auto;
    width: 50%;
+   border-radius: 15px;
+   background-color: #FFB6C1;
+}
+.card-body p{
+    padding: 10px;
+   
 }

@@ -1,18 +1,17 @@
 import React from 'react';
 import './About.css'
+import me from '../../Image/me.jpg'
 const About = () => {
     return (
-        <div>
+        <div className='container'>
 
             <div class="card-body">
-                <h5 class="card-title">You Khnow me</h5>
-                <p class="card-text">I am Md. Raihan Islam.
-                    I want to take a job in any software company that learns programming.
-                    I'm doing a web development course at Programming Hero.
-                    It teaches us in a good way.
-                    They support us well.
-                    I want to help different helpless people in the future.
-                    I am studying Honors now.</p>
+                <h5 class="card-title">You Khnow About Me</h5>
+                <img width='100%' src={me} alt="" />
+                <p class="card-text">
+                I am Md. Rayhan Islam.  I'm learning programming.  I want to learn programming and take a job in any software company.  I like programming a lot.  It feels bad to do programming when the program is wrong.  When I correct a mistake, I like the best of the best.  Programming I give time every day.  I work hard at programming.  I want to build a career by programming.  I want to help different helpless people in the future.
+
+                </p>
             </div>
 
 
