@@ -1,32 +1,44 @@
 [
 {  
     "id": "1",
-    "name": "Will Jack",
+    "name": "Dr. Will Jack",
+    "expert": "Cardiologist",
+    "phone": "+00882544",
     "img" :"https://i.ibb.co/xH77ngz/african-american-medical-doctor-man-with-mask-isolated-gray-background-1-1.jpg"
 },
 {  
     "id": "2",
-    "name": "Kane Williamson",
+    "name": "Dr. Kane Williamson",
+    "expert": "Surgeon",
+    "phone": "+00884025",
     "img" :"https://i.ibb.co/PD6mQqq/doctor-standing-with-folder-stethoscope-1-1.jpg"
 },
 {  
     "id": "3",
-    "name": "Beth Mooney",
+    "name": "Dr. Beth Mooney",
+    "expert": "Gynecologist",
+    "phone": "+00886434",
     "img" :"https://i.ibb.co/n3P7sBX/medium-shot-doctor-with-stethoscope-1-1.jpg"
 },
 {  
     "id": "4",
-    "name": "Cristiano Ronaldo",
+    "name": "Dr. Cristiano Ronaldo",
+    "expert": "Pediatricians",
+    "phone": "+008865645",
     "img" :"https://i.ibb.co/vXwGm5T/portrait-friendly-male-doctor-dressed-uniform-1-1.jpg"
 },
 {  
     "id": "5",
-    "name": "David Beckham",
+    "name": "Dr. David Beckham",
+    "expert": "Surgeon",
+    "phone": "+008896344",
     "img" :"https://i.ibb.co/LnLLPd3/portrait-smiling-handsome-male-doctor-man-1.jpg"
 },
 {  
     "id": "6",
-    "name": "Luis Suarez",
+    "name": "Dr. Luis Suarez",
+    "expert": "Cardiologist",
+    "phone": "+0088578",
     "img" :"https://i.ibb.co/FzC65T2/portrait-smiling-young-man-doctor-with-stethoscope-standing-with-arms-folded-1.png"
 }
 ]
