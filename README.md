@@ -6,9 +6,11 @@
 ##liveProject link: https://assignment-10-495ba.web.app/about
 
 
-.I created Health Care the website.
+• Websites have been created to treat various diseases
 
-.I have given a banner on the website, I am using slider as a banner.
+. I have given a banner on the website, I am using slider as a banner.
+
+• The name of the disease, the cost of treatment, the description of the disease are given on the website
 
 .Make the home page of my website responsive. Make sure the site looks different on desktop and mobile responsive. 
 
@@ -18,5 +20,6 @@
 
 .Clicking on the button will take the user to the Checkout route. This route had private/protected routes. Please I make sure that the private route redirects to the login page if the user is not logged in. After login, the user will be redirected to the checkout page
 
+• There are customer reviews 
 
 ***I'm using React Boostap, Boostsap 5, CSS, React Router, Firebase
